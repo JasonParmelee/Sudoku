@@ -90,11 +90,13 @@ void LinkedList::deleteNum(int num)
 			if (n == head)
 			{
 				head = n->next;
+				delete(n);
 				return;
 			}
 			else
 			{
 				prev->next = n->next;
+				delete(n);
 				return;
 			}
 		}
