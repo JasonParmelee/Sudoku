@@ -1,0 +1,3 @@
+﻿  GenerateBoard.cpp
+c:\users\nutty_000\desktop\coding practice\c++ practice\sudoku\sudoku\generateboard.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\Nutty_000\Desktop\Coding Practice\C++ Practice\Sudoku\Debug\Sudoku.exe
